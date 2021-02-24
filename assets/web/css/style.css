@@ -1,0 +1,20 @@
+.paragrph{
+    color:white;
+}
+.lst{
+    padding-bottom: 100px;
+}
+.nature span{
+    width: 227px !important;
+    height: 5px;
+}
+.nicdark_margin_btm20{
+    margin-bottom: 20px;
+}
+ul li{
+    list-style: none;
+    margin-top: 10px;
+    text-transform: capitalize;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
