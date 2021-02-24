@@ -2,11 +2,11 @@
 <html lang="en">
    <head>
       <meta charset="utf-8">
-      <title>TicTacToe</title>
+	  <title>TicTacToe</title>
       <!--insert your title here-->  
-      <meta name="description" content="nicdark Framework">
+      <meta name="description" content="Tic Tac Toe believes that positive fun filled learning experiences will lay the foundation for a self motivated life long learner. Our learning engagements are curated to ignite a passion for wonder, discovery, and experiential learning.">
       <!--insert your description here-->  
-      <meta name="author" content="nicdark">
+      <meta name="author" content="5TH Dimension Technologies">
       <!--insert your name here-->
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <!--meta responsive-->
@@ -23,10 +23,10 @@
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>  
       <![endif]-->  
       <!--FAVICONS-->
-      <link rel="shortcut icon" href="<?php base_url(); ?>assets/web/img/favicon/favicon.ico">
-      <link rel="apple-touch-icon" href="<?php base_url(); ?>assets/web/img/favicon/apple-touch-icon.png">
-      <link rel="apple-touch-icon" sizes="72x72" href="<?php base_url(); ?>assets/web/img/favicon/apple-touch-icon-72x72.png">
-      <link rel="apple-touch-icon" sizes="114x114" href="<?php base_url(); ?>assets/web/img/favicon/apple-touch-icon-114x114.png">
+      <link rel="shortcut icon" href="<?php base_url(); ?>assets/web/img/logo/logo.png">
+      <link rel="apple-touch-icon" href="<?php base_url(); ?>assets/web/img/logo/logo.png">
+      <link rel="apple-touch-icon" sizes="72x72" href="<?php base_url(); ?>assets/web/img/logo/logo.png">
+      <link rel="apple-touch-icon" sizes="114x114" href="<?php base_url(); ?>assets/web/img/logo/logo.png">
       <!--END FAVICONS-->
    </head>
    <body id="start_nicdark_framework">
