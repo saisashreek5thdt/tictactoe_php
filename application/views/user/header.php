@@ -35,7 +35,7 @@
             <div class="nicdark_overlay"></div>
             <div class="nicdark_section nicdark_navigation fade-down">
                <div class="nicdark_menu_boxed">
-                  <div class="nicdark_section nicdark_bg_greydark nicdark_displaynone_responsive">
+                  <!--<div class="nicdark_section nicdark_bg_greydark nicdark_displaynone_responsive">
                      <div class="nicdark_container nicdark_clearfix">
                         <div class="grid grid_6">
                            <div class="nicdark_focus">
@@ -58,7 +58,7 @@
                            </div>
                         </div>
                      </div>
-                  </div>
+                  </div>-->
                   <div class="nicdark_space3 nicdark_bg_gradient"></div>
                   <?php
 				   		include("nav_view.php");

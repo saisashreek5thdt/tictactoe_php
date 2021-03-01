@@ -27,7 +27,7 @@
 										<li>
 										   <a href="<?php base_url();?>daycare">OverView</a>
 									   </li>
-                                       <li>
+                                       <!--<li>
 										   <a href="<?php base_url();?>"></a>
 									   </li>
 									   <li>
@@ -44,7 +44,7 @@
 									   </li>
 									   <li>
 										   <a href="<?php base_url();?>"></a>
-									   </li>	
+									   </li>-->	
 									</ul> 
                                  </li> 
                                  <li class="orange">
@@ -74,16 +74,16 @@
                                     <a href="<?php base_url();?>">Additional</a>
 									<ul class="sub-menu">
 										<li>
-											<a href="<?php base_url();?>">Coding</a>
+											<a href="#">Coding</a>
 										 </li> 
 										 <li>
-											<a href="<?php base_url();?>">Parent Reflection</a>
+											<a href="#">Parent Reflection</a>
 										 </li>
 										 <li>
-											<a href="<?php base_url();?>">Franchise Opportunities</a>
+											<a href="#">Franchise Opportunities</a>
 										 </li>
 										 <li>
-											<a href="<?php base_url();?>gallery">Learn through play ( photos )</a>
+											<a href="#">Learn through play ( photos )</a>
 										 </li>
 										 <li>
 											<a href="<?php base_url();?>fees">Fee Structure</a>
@@ -93,6 +93,17 @@
                                  <li class="blue">
                                     <a href="<?php base_url();?>admission">Admission Form</a>
                                  </li>
+								 <li class="green">
+                                    <a href="#">Branches</a>
+									<ul class="sub-menu">
+										<li>
+											<a href="<?php base_url();?>nilak">Pimple Nilak ( Pune )</a>
+										</li>
+										<li>
+											<a href="#">Tascun ( Pune )</a>
+										</li>
+									</ul> 
+                                 </li> 
                                  <li class="grey">
                                     <a href="<?php base_url();?>contact_us">Contact Us</a>
                                  </li> 

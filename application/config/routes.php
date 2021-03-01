@@ -85,5 +85,9 @@ $route['lkg'] = 'fees/lkg';
 
 $route['ukg'] = 'fees/ukg';
 
+$route['branches_controller'] = 'branches';
+
+$route['nilak'] = 'branches/nilak';
+
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
