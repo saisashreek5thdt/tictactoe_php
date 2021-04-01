@@ -47,3 +47,110 @@
             </section>
             <!--end section--> 
 			<!--end-->
+			<!--start section-->
+            <section class="nicdark_section">
+               <!--start nicdark_container-->
+               <div class="nicdark_container nicdark_clearfix">
+                  <div class="nicdark_space50"></div>
+                  <div class="grid grid_12">
+                     <h1 class="subtitle greydark">GALLERY</h1>
+                     <div class="nicdark_space20"></div>
+                     <h3 class="subtitle grey"></h3>
+                     <div class="nicdark_space20"></div>
+                     <div class="nicdark_divider left big"><span class="nicdark_bg_red nicdark_radius"></span></div>
+                  </div>
+               </div>
+               <!--end nicdark_container-->
+            </section>
+            <!--end section-->
+			<!--start section-->
+			<!--end section-->
+			<section class="nicdark_section">
+				<!--start nicdark_container-->
+				<div class="nicdark_container nicdark_clearfix">
+					<div class="nicdark_space10"></div>
+					<div class="grid grid_12">
+                     <!--start section-->
+                     <section class="nicdark_section">
+                        <div class="tp-banner-container">
+                           <div id="nicdark_slide2" class="tp-banner">
+                              <ul>
+                                 <!--start second-->
+                                 <li data-transition="fade" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on"  data-title="">
+                                    <img src="<?php base_url(); ?>assets/web/img/gallery/pimple_1.png" alt="" data-lazyload="<?php base_url(); ?>assets/web/img/gallery/pimple_2.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
+                                 </li>
+                                 <!--end second-->
+                                 <!--start first-->
+                                 <li data-transition="fade" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on"  data-title="">
+                                    <img src="<?php base_url(); ?>assets/web/img/gallery/pimple_2.png"  alt="" data-lazyload="<?php base_url(); ?>assets/web/img/gallery/pimple_3.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">  
+                                 </li>
+                                 <!--end first-->
+								 <!--start second-->
+                                 <li data-transition="fade" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on"  data-title="">
+                                    <img src="<?php base_url(); ?>assets/web/img/gallery/pimple_3.png" alt="" data-lazyload="<?php base_url(); ?>assets/web/img/gallery/pimple_4.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
+                                 </li>
+                                 <!--end second-->
+                                 <!--start first-->
+                                 <li data-transition="fade" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on"  data-title="">
+                                    <img src="<?php base_url(); ?>assets/web/img/gallery/pimple_4.png"  alt="" data-lazyload="<?php base_url(); ?>assets/web/img/gallery/pimple_5.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">  
+                                 </li>
+                                 <!--end first--> 
+								 <!--start second-->
+                                 <li data-transition="fade" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on"  data-title="">
+                                    <img src="<?php base_url(); ?>assets/web/img/gallery/pimple_5.png" alt="" data-lazyload="<?php base_url(); ?>assets/web/img/gallery/pimple_6.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
+                                 </li>
+                                 <!--end second-->
+                                 <!--start first-->
+                                 <li data-transition="fade" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on"  data-title="">
+                                    <img src="<?php base_url(); ?>assets/web/img/gallery/pimple_7.png"  alt="" data-lazyload="<?php base_url(); ?>assets/web/img/gallery/pimple_8.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">  
+                                 </li>
+                                 <!--end first-->
+								 <!--start second-->
+                                 <li data-transition="fade" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on"  data-title="">
+                                    <img src="<?php base_url(); ?>assets/web/img/gallery/pimple_8.png" alt="" data-lazyload="<?php base_url(); ?>assets/web/img/gallery/pimple_9.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
+                                 </li>
+                                 <!--end second-->
+                                 <!--start first-->
+                                 <li data-transition="fade" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on"  data-title="">
+                                    <img src="<?php base_url(); ?>assets/web/img/gallery/pimple_10.png"  alt="" data-lazyload="<?php base_url(); ?>assets/web/img/gallery/pimple_11.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">  
+                                 </li>
+                                 <!--end first-->
+								 <!--start second-->
+                                 <li data-transition="fade" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on"  data-title="">
+                                    <img src="<?php base_url(); ?>assets/web/img/gallery/pimple_11.png" alt="" data-lazyload="<?php base_url(); ?>assets/web/img/gallery/pimple_12.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
+                                 </li>
+                                 <!--end second-->
+                                 <!--start first-->
+                                 <li data-transition="fade" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on"  data-title="">
+                                    <img src="<?php base_url(); ?>assets/web/img/gallery/pimple_12.png"  alt="" data-lazyload="<?php base_url(); ?>assets/web/img/gallery/pimple_13.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">  
+                                 </li>
+                                 <!--end first--> 
+								 <!--start second-->
+                                 <li data-transition="fade" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on"  data-title="">
+                                    <img src="<?php base_url(); ?>assets/web/img/gallery/pimple_13.png" alt="" data-lazyload="<?php base_url(); ?>assets/web/img/gallery/pimple_14.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
+                                 </li>
+                                 <!--end second-->
+                                 <!--start first-->
+                                 <li data-transition="fade" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on"  data-title="">
+                                    <img src="<?php base_url(); ?>assets/web/img/gallery/pimple_14.png"  alt="" data-lazyload="<?php base_url(); ?>assets/web/img/gallery/pimple_15.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">  
+                                 </li>
+                                 <!--end first-->
+								 <!--start second-->
+                                 <li data-transition="fade" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on"  data-title="">
+                                    <img src="<?php base_url(); ?>assets/web/img/gallery/pimple_15.png" alt="" data-lazyload="<?php base_url(); ?>assets/web/img/gallery/pimple_16.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
+                                 </li>
+                                 <!--end second-->
+                                 <!--start first-->
+                                 <li data-transition="fade" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on"  data-title="">
+                                    <img src="<?php base_url(); ?>assets/web/img/gallery/pimple_16.png"  alt="" data-lazyload="<?php base_url(); ?>assets/web/img/gallery/pimple_1.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">  
+                                 </li>
+                                 <!--end first-->  
+                              </ul>
+                           </div>
+                        </div>
+                     </section>
+                     <!--end section-->       
+                  </div>
+				</div>
+				<!--end nicdark_container-->
+			</section>
