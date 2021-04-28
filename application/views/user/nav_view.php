@@ -5,11 +5,11 @@
                            <div class="nicdark_logo nicdark_marginleft10">
                               <a href="<?php base_url();?>home"><img alt="" src="<?php base_url();?>assets/web/img/logo/logo.png"></a>
                            </div>
-                           <nav>
+                           <!-- <nav>
                               <ul class="nicdark_menu nicdark_margin010 nicdark_padding50">
-                                 <!--<li class="orange">
+                                 <li class="orange">
                                     <a href="<?php base_url();?>home">Home</a>
-                                 </li>-->
+                                 </li>
 								 <li class="blue">
                                     <a href="<?php base_url();?>aboutus">About Us</a>
                                  </li> 
@@ -27,7 +27,7 @@
 										<li>
 										   <a href="<?php base_url();?>daycare">OverView</a>
 									   </li>
-                                       <!--<li>
+                                       <li>
 										   <a href="<?php base_url();?>"></a>
 									   </li>
 									   <li>
@@ -44,7 +44,7 @@
 									   </li>
 									   <li>
 										   <a href="<?php base_url();?>"></a>
-									   </li>-->	
+									   </li>
 									</ul> 
                                  </li> 
                                  <li class="orange">
@@ -100,7 +100,7 @@
 											<a href="<?php base_url();?>nilak">Pimple Nilak ( Pune )</a>
 										</li>
 										<li>
-											<a href="#">Tascun ( Pune )</a>
+											<a href="<?php base_url();?>tascun">Tascun ( Pune )</a>
 										</li>
 									</ul> 
                                  </li> 
@@ -108,7 +108,7 @@
                                     <a href="<?php base_url();?>contact_us">Contact Us</a>
                                  </li> 
                               </ul>
-                           </nav>
+                           </nav> -->
                            <div class="nicdark_space20"></div>
                         </div>
                      </div>

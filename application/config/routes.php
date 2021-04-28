@@ -53,6 +53,10 @@ $route['default_controller'] = 'home';
 
 $route['aboutus_controller'] = 'aboutus';
 
+$route['team'] = 'aboutus/team';
+
+$route['ourprogram'] = 'aboutus/ourprogram';
+
 $route['daycare_controller'] = 'daycare';
 
 $route['nurture_controller'] = 'nurture';
