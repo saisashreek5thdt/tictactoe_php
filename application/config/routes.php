@@ -57,6 +57,10 @@ $route['team'] = 'aboutus/team';
 
 $route['ourprogram'] = 'aboutus/ourprogram';
 
+$route['express_controller'] = 'express';
+
+$route['testimonials'] = 'express/testimonials';
+
 $route['daycare_controller'] = 'daycare';
 
 $route['nurture_controller'] = 'nurture';
