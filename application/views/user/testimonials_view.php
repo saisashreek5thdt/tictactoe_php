@@ -53,7 +53,7 @@
 							  <li class="nicdark_border_grey">
 								  <div class="nicdark_margin20">
 									<div class="nicdark_activity">
-										<a href="<?php base_url();?>contact_us">
+										<a href="<?php base_url();?>branches">
 											<p><i class="icon-right-open-outline"></i>&nbsp;Contact Us</p>
 										</a>
 									</div>

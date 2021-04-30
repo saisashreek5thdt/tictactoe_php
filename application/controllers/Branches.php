@@ -2,6 +2,14 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Branches extends CI_Controller {
+	
+	public function index()
+	{
+		$data['main'] = 'user/nilak_view';
+		$this->load->view('user/header', $data);
+		$this->load->view('user/branch_view');
+		$this->load->view('user/footer', $data);
+	}
 
 	public function nilak()
 	{
