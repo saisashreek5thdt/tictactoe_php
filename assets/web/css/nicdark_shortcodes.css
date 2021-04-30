@@ -178,8 +178,8 @@ JQUERY UI
 
 
 /* 6 - START LOGO*/
-.nicdark_logo{ float: left; position: relative; width: 10px; height: 10px; }
-.nicdark_logo img{ position: absolute; width: 135px; margin-top: 3px; border:0;}
+.nicdark_logo{ float: left; position: relative; width: 10px; height: 60px !important; }
+.nicdark_logo img{ position: absolute; width: 130px; margin-top: 0px; border:0; margin-bottom: 5px;}
 /*END LOGO*/
 
 

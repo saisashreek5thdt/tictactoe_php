@@ -61,6 +61,8 @@ $route['express_controller'] = 'express';
 
 $route['testimonials'] = 'express/testimonials';
 
+$route['enjoy_controller'] = 'enjoy';
+
 $route['daycare_controller'] = 'daycare';
 
 $route['nurture_controller'] = 'nurture';

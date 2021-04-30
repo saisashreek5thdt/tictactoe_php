@@ -28,7 +28,7 @@
                            <div class="nicdark_textevidence">
                               <div class="nicdark_margin30">
                                  <h2 class="white subtitle">
-									 <a class="white" href="<?php base_url();?>">Enjoy</a>
+									 <a class="white" href="<?php base_url();?>enjoy">Enjoy</a>
 								 </h2>
                               </div>
                               <i class="nicdark_zoom icon-music-2 nicdark_iconbg left extrabig orange nicdark_displaynone_ipadland nicdark_displaynone_ipadpotr"></i>
