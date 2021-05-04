@@ -99,6 +99,9 @@ JQUERY UI
 .nicdark_bg_orangedark{ background-color: #df764e; }
 .nicdark_bg_reddark{ background-color: #c86969; }
 .nicdark_bg_yellowdark{ background-color: #e0b84e; }
+.nicdark_bg_facebook{background-color:#5977b8;}
+.nicdark_bg_instagram{background-color:#8a3ab9;}
+.nicdark_bg_twitter{background-color:#1DA1F2;}
 .nicdark_bg_gradient{ 
 	background: #74cee4; /* Old browsers */
 	background: -moz-linear-gradient(left,  #74cee4 0%, #66ce9c 16%, #edbf47 32%, #ec774b 49%, #74cee4 65%, #66ce9c 83%, #edbf47 100%); /* FF3.6+ */

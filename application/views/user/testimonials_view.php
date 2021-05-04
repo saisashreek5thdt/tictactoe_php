@@ -24,7 +24,92 @@
                <!--start nicdark_container-->
                <div class="nicdark_container nicdark_clearfix">
                   <div class="nicdark_space50"></div>
-				  <div class="grid grid_8"></div> 
+				  <div class="grid grid_8">
+					  <div class="grid grid_3">
+                     <div class="nicdark_archive1 nicdark_bg_grey nicdark_radius nicdark_shadow center">
+                        <div class="nicdark_textevidence nicdark_bg_greydark nicdark_radius_top">
+                           <h4 class="white nicdark_margin20">Student/Parent Name</h4>
+                        </div>
+                        <img class="nicdark_opacity" alt="" src="<?php base_url(); ?>assets/web/img/logo/logo.jpg">
+                        <div class="nicdark_textevidence nicdark_bg_blue">
+                           <h5 class="white nicdark_margin20">Class Name</h5>
+                           <i class="icon-brush nicdark_iconbg right medium blue"></i>
+                        </div>
+                        <div class="nicdark_textevidence">
+                           <div class="nicdark_margin20">
+                              <p>Testimoial Info</p>
+                              <div class="nicdark_space20 nicdark_displaynone_ipadpotr"></div>
+                              <a href="<?php base_url(); ?>testinfo" class="grey nicdark_btn">
+								  <i class="icon-graduation-cap-1"></i> Know Me :)
+							  </a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="grid grid_3">
+                     <div class="nicdark_archive1 nicdark_bg_grey nicdark_radius nicdark_shadow center">
+                        <div class="nicdark_textevidence nicdark_bg_greydark nicdark_radius_top">
+                           <h4 class="white nicdark_margin20">Student/Parent Name</h4>
+                        </div>
+                        <img class="nicdark_opacity" alt="" src="<?php base_url(); ?>assets/web/img/logo/logo.jpg">
+                        <div class="nicdark_textevidence nicdark_bg_yellow">
+                           <h5 class="white nicdark_margin20">Class Name</h5>
+                           <i class="icon-music-outline nicdark_iconbg right medium yellow"></i>
+                        </div>
+                        <div class="nicdark_textevidence">
+                           <div class="nicdark_margin20">
+                              <p>Testimonial Info</p>
+                              <div class="nicdark_space20 nicdark_displaynone_ipadpotr"></div>
+                              <a href="<?php base_url(); ?>testinfo" class="grey nicdark_btn">
+								  <i class="icon-graduation-cap-1"></i> Know Me :)
+							  </a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="grid grid_3">
+                     <div class="nicdark_archive1 nicdark_bg_grey nicdark_radius nicdark_shadow center">
+                        <div class="nicdark_textevidence nicdark_bg_greydark nicdark_radius_top">
+                           <h4 class="white nicdark_margin20">Student/Parent Name</h4>
+                        </div>
+                        <img class="nicdark_opacity" alt="" src="<?php base_url(); ?>assets/web/img/logo/logo.jpg">
+                        <div class="nicdark_textevidence nicdark_bg_orange">
+                           <h5 class="white nicdark_margin20">Class Name</h5>
+                           <i class="icon-dribbble nicdark_iconbg right medium orange"></i>
+                        </div>
+                        <div class="nicdark_textevidence">
+                           <div class="nicdark_margin20">
+                              <p>Testimonial Info</p>
+                              <div class="nicdark_space20 nicdark_displaynone_ipadpotr"></div>
+                              <a href="<?php base_url(); ?>testinfo" class="grey nicdark_btn">
+								  <i class="icon-graduation-cap-1"></i> Know Me :)
+							  </a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="grid grid_3">
+                     <div class="nicdark_archive1 nicdark_bg_grey nicdark_radius nicdark_shadow center">
+                        <div class="nicdark_textevidence nicdark_bg_greydark nicdark_radius_top">
+                           <h4 class="white nicdark_margin20">Student/Parent Name</h4>
+                        </div>
+                        <img class="nicdark_opacity" alt="" src="<?php base_url(); ?>assets/web/img/logo/logo.jpg">
+                        <div class="nicdark_textevidence nicdark_bg_red">
+                           <h5 class="white nicdark_margin20">Class Name</h5>
+                           <i class="icon-tree-1 nicdark_iconbg right medium red"></i>
+                        </div>
+                        <div class="nicdark_textevidence">
+                           <div class="nicdark_margin20">
+                              <p>Testimonial Info</p>
+                              <div class="nicdark_space20 nicdark_displaynone_ipadpotr"></div>
+                              <a href="<?php base_url(); ?>testinfo" class="grey nicdark_btn">
+								  <i class="icon-graduation-cap-1"></i> Know Me :)
+							  </a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+				  </div> 
 				  <div class="grid grid_4 nicdark_masonry_item">
 					  <div class="nicdark_archive1 nicdark_bg_grey nicdark_radius nicdark_shadow">
 						  <div class="nicdark_textevidence nicdark_bg_violet nicdark_radius_top">

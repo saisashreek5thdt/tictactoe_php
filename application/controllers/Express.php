@@ -19,4 +19,12 @@ class Express extends CI_Controller {
 		$this->load->view('user/footer_2', $data);
 	}
 	
+	public function testinfo()
+	{
+		$data['main'] = 'user/testinfo_view';
+		$this->load->view('user/header', $data);
+		$this->load->view('user/testinfo_view');
+		$this->load->view('user/footer_2', $data);
+	}
+	
 }

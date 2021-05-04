@@ -126,7 +126,7 @@
 							  <li class="nicdark_border_grey">
 								  <div class="nicdark_margin20">
 									<div class="nicdark_activity">
-										<a href="<?php base_url();?>">
+										<a href="<?php base_url();?>events">
 											<p><i class="icon-right-open-outline"></i>&nbsp;Events</p>
 										</a>
 									</div>
@@ -135,7 +135,7 @@
 							  <li class="nicdark_border_grey">
 								  <div class="nicdark_margin20">
 									<div class="nicdark_activity">
-										<a href="<?php base_url();?>">
+										<a href="<?php base_url();?>media">
 											<p><i class="icon-right-open-outline"></i>&nbsp;Media</p>
 										</a>
 									</div>
@@ -144,7 +144,7 @@
 							  <li class="nicdark_border_grey">
 								  <div class="nicdark_margin20">
 									<div class="nicdark_activity">
-										<a href="<?php base_url();?>">
+										<a href="<?php base_url();?>social">
 											<p><i class="icon-right-open-outline"></i>&nbsp;Social Media</p>
 										</a>
 									</div>
